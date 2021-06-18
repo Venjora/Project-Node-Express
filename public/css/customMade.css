@@ -1,0 +1,51 @@
+
+#my-info .thumbnail:hover {
+    transition: transform .2s ease-out;
+    transform: scale(1.2);
+}
+h1 {
+    color: #79cbb8;
+}
+
+#my-info {
+    background: #ff9a8d;
+}
+
+#my-info h5 {
+    font-weight: bold;
+    text-shadow: 2px 2px #4a536b;
+}
+
+#my-info .text-light {
+    color: #4a536b;
+}
+
+#my-info a {
+    color: white;
+}
+
+.portfolio-index .thumbnail {
+    border: solid 4px #79cbb8;
+    border-radius: 5px;
+    transition: transform .2s ease-out;
+}
+
+.portfolio-index .thumbnail:hover {
+    transform:scale(1.2);
+}
+
+.portfolio-meta > ul > li {
+    font-weight: bold;
+    color: #4a536b;
+}
+
+.button {
+    background: #ff9a8d;
+    font-weight: bold;
+    transition: transform .2s ease-out;
+}
+
+.button:hover {
+    background: #79cbb8;
+    transform:scale(1.1);
+}

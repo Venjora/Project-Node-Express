@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "Creating Random Quote Generator using Javascript",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://venjora.github.io/Project01/a_random_quote_slide-show-start/",
+      "github_link": "https://github.com/Venjora/Project01",
+      "image_urls": ["/static/images/Proj1_1RandomQuotes.png", "/static/images/Proj1_2RandomQuotes.png", "/static/images/Proj1_3RandomQuotes.png"]
+    },
+    {
+      "id": 1,
+      "project_name": "Pagination",
+      "description": "Creating a pages to separate the datas",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://venjora.github.io/Project02/",
+      "github_link": "https://github.com/Venjora/Project02",
+      "image_urls": ["/static/images/Proj2_1Pagination.png", "/static/images/Proj2_2Pagination.png","/static/images/Proj2_3Pagination.png"]
+    }
+  ]
+}
